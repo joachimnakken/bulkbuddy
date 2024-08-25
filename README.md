@@ -1,4 +1,4 @@
-# BulkBuddy
+![BulkBuddy Logo](assets/black_text_logo.png)
 
 ## Do you need help?
 
