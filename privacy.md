@@ -18,5 +18,13 @@ BulkBuddy does not use any third-party services that collect, store, or process 
 ## 6. Changes to This Policy
 We may update this privacy policy from time to time. Any changes will be posted in the app and updated on this page. We encourage you to review this policy periodically.
 
-## 7. Contact Us
+## 8. Account Deletion
+
+To delete your BulkBuddy account:
+
+1. Open the BulkBuddy app
+2. Go to Account
+3. Tap "Delete Account" at the bottom
+
+## 8. Contact Us
 If you have any questions or concerns about this privacy policy, please contact us at [post@joachimnakken.com](mailto:post@joachimnakken.com).
